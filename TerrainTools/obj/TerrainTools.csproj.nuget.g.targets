@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ImportGroup Condition=" '$(TargetFramework)' == 'net10.0-windows' AND '$(ExcludeRestorePackageImports)' != 'true' ">
+    <Import Project="$(NuGetPackageRoot)ultz.native.sdl\2.30.8\buildTransitive\netstandard2.0\Ultz.Native.SDL.targets" Condition="Exists('$(NuGetPackageRoot)ultz.native.sdl\2.30.8\buildTransitive\netstandard2.0\Ultz.Native.SDL.targets')" />
+    <Import Project="$(NuGetPackageRoot)stride.core\4.3.0.2507\buildTransitive\Stride.Core.targets" Condition="Exists('$(NuGetPackageRoot)stride.core\4.3.0.2507\buildTransitive\Stride.Core.targets')" />
+    <Import Project="$(NuGetPackageRoot)silk.net.sdl\2.22.0\buildTransitive\net6.0\Silk.NET.SDL.targets" Condition="Exists('$(NuGetPackageRoot)silk.net.sdl\2.22.0\buildTransitive\net6.0\Silk.NET.SDL.targets')" />
+    <Import Project="$(NuGetPackageRoot)stride.graphics\4.3.0.2507\buildTransitive\Stride.Graphics.targets" Condition="Exists('$(NuGetPackageRoot)stride.graphics\4.3.0.2507\buildTransitive\Stride.Graphics.targets')" />
+    <Import Project="$(NuGetPackageRoot)microsoft.extensions.options\8.0.0\buildTransitive\net6.0\Microsoft.Extensions.Options.targets" Condition="Exists('$(NuGetPackageRoot)microsoft.extensions.options\8.0.0\buildTransitive\net6.0\Microsoft.Extensions.Options.targets')" />
+    <Import Project="$(NuGetPackageRoot)microsoft.extensions.logging.abstractions\8.0.0\buildTransitive\net6.0\Microsoft.Extensions.Logging.Abstractions.targets" Condition="Exists('$(NuGetPackageRoot)microsoft.extensions.logging.abstractions\8.0.0\buildTransitive\net6.0\Microsoft.Extensions.Logging.Abstractions.targets')" />
+    <Import Project="$(NuGetPackageRoot)microsoft.codeanalysis.analyzers\3.3.4\buildTransitive\Microsoft.CodeAnalysis.Analyzers.targets" Condition="Exists('$(NuGetPackageRoot)microsoft.codeanalysis.analyzers\3.3.4\buildTransitive\Microsoft.CodeAnalysis.Analyzers.targets')" />
+    <Import Project="$(NuGetPackageRoot)stride.core.assets.compilerapp\4.3.0.2507\buildTransitive\Stride.Core.Assets.CompilerApp.targets" Condition="Exists('$(NuGetPackageRoot)stride.core.assets.compilerapp\4.3.0.2507\buildTransitive\Stride.Core.Assets.CompilerApp.targets')" />
+  </ImportGroup>
+</Project>

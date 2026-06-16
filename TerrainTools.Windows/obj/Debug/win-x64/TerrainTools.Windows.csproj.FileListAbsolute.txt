@@ -1,0 +1,16 @@
+C:\Users\win10\Documents\Stride Projects\TerrainTools\Bin\Windows\Debug\win-x64\TerrainTools.Windows.exe
+C:\Users\win10\Documents\Stride Projects\TerrainTools\Bin\Windows\Debug\win-x64\TerrainTools.Windows.deps.json
+C:\Users\win10\Documents\Stride Projects\TerrainTools\Bin\Windows\Debug\win-x64\TerrainTools.Windows.runtimeconfig.json
+C:\Users\win10\Documents\Stride Projects\TerrainTools\Bin\Windows\Debug\win-x64\TerrainTools.Windows.dll
+C:\Users\win10\Documents\Stride Projects\TerrainTools\Bin\Windows\Debug\win-x64\TerrainTools.Windows.pdb
+C:\Users\win10\Documents\Stride Projects\TerrainTools\TerrainTools.Windows\obj\Debug\win-x64\TerrainTools.Windows.csproj.AssemblyReference.cache
+C:\Users\win10\Documents\Stride Projects\TerrainTools\TerrainTools.Windows\obj\Debug\win-x64\TerrainTools.Windows.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\win10\Documents\Stride Projects\TerrainTools\TerrainTools.Windows\obj\Debug\win-x64\TerrainTools.Windows.AssemblyInfoInputs.cache
+C:\Users\win10\Documents\Stride Projects\TerrainTools\TerrainTools.Windows\obj\Debug\win-x64\TerrainTools.Windows.AssemblyInfo.cs
+C:\Users\win10\Documents\Stride Projects\TerrainTools\TerrainTools.Windows\obj\Debug\win-x64\TerrainTools.Windows.csproj.CoreCompileInputs.cache
+C:\Users\win10\Documents\Stride Projects\TerrainTools\TerrainTools.Windows\obj\Debug\win-x64\TerrainT.BC30C730.Up2Date
+C:\Users\win10\Documents\Stride Projects\TerrainTools\TerrainTools.Windows\obj\Debug\win-x64\TerrainTools.Windows.dll
+C:\Users\win10\Documents\Stride Projects\TerrainTools\TerrainTools.Windows\obj\Debug\win-x64\refint\TerrainTools.Windows.dll
+C:\Users\win10\Documents\Stride Projects\TerrainTools\TerrainTools.Windows\obj\Debug\win-x64\TerrainTools.Windows.pdb
+C:\Users\win10\Documents\Stride Projects\TerrainTools\TerrainTools.Windows\obj\Debug\win-x64\TerrainTools.Windows.genruntimeconfig.cache
+C:\Users\win10\Documents\Stride Projects\TerrainTools\TerrainTools.Windows\obj\Debug\win-x64\ref\TerrainTools.Windows.dll

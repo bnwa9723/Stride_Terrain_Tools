@@ -1,0 +1,19 @@
+!UIPageAsset
+Id: 871a17cd-c2f2-47bb-ab06-24564c47ee21
+SerializedVersion: {Stride: 2.1.0.1}
+Tags: []
+Design:
+    Resolution: {X: 1280.0, Y: 720.0, Z: 1000.0}
+Hierarchy:
+    RootParts:
+        - !Grid ref!! 6d54a7ad-f287-4067-b6b9-e5594008e45f
+    Parts:
+        -   UIElement: !Grid
+                Id: 6d54a7ad-f287-4067-b6b9-e5594008e45f
+                DependencyProperties: {}
+                BackgroundColor: {R: 0, G: 0, B: 0, A: 0}
+                Margin: {}
+                Children: {}
+                RowDefinitions: {}
+                ColumnDefinitions: {}
+                LayerDefinitions: {}

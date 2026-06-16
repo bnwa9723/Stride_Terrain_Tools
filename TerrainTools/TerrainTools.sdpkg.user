@@ -1,0 +1,185 @@
+!SettingsFile
+Settings:
+    Package/SceneSettings:
+        c77b22f9-0e92-4bcd-8fa5-831fb849d700:
+            CamPosition: {X: -1.0073117, Y: 4.3681903, Z: 3.8018723}
+            CamPitchYaw: {X: -0.7041031, Y: -0.52443284}
+            CamProjection: Perspective
+            CamVerticalFieldOfView: 45.0
+            CamOrthographicSize: 10.0
+            CamNearClipPlane: 0.1
+            CamFarClipPlane: 1000.0
+            CamAspectRatio: 1.7777778
+            CamMoveSpeed: 3.0
+            TranslationSnapActive: false
+            TranslationSnapValue: 1.0
+            RotationSnapActive: false
+            RotationSnapValue: 22.5
+            ScaleSnapActive: false
+            ScaleSnapValue: 1.1
+            SceneUnit: 1.0
+            SelectionMaskVisible: true
+            GridVisible: true
+            GridColor: {R: 0.7058824, G: 0.7058824, B: 0.7058824}
+            GridOpacity: 0.35
+            GridAxisIndex: 2
+            CameraPreviewVisible: true
+            RenderMode: Lighting
+            ActiveStream: 
+            TransformationGizmoSize: 1.0
+            ComponentGizmoSize: 1.0
+            FixedSizeGizmos: false
+            HiddenGizmos:
+                - Model
+                - Physics
+                - Physics Constraint
+                - Transform
+            VisibleNavigationGroups: []
+            LightProbeWireframe: false
+            LightProbeBounces: 1
+            SceneLoaded: false
+        59950f3a-11b4-443b-90f9-c921867f5f2e:
+            CamPosition: {X: -0.3634804, Y: 2.2565463, Z: 1.9858792}
+            CamPitchYaw: {X: -0.927321, Y: -0.46033436}
+            CamProjection: Perspective
+            CamVerticalFieldOfView: 45.0
+            CamOrthographicSize: 10.0
+            CamNearClipPlane: 0.1
+            CamFarClipPlane: 1000.0
+            CamAspectRatio: 1.7777778
+            CamMoveSpeed: 3.0
+            TranslationSnapActive: false
+            TranslationSnapValue: 1.0
+            RotationSnapActive: false
+            RotationSnapValue: 22.5
+            ScaleSnapActive: false
+            ScaleSnapValue: 1.1
+            SceneUnit: 1.0
+            SelectionMaskVisible: true
+            GridVisible: true
+            GridColor: {R: 0.7058824, G: 0.7058824, B: 0.7058824}
+            GridOpacity: 0.35
+            GridAxisIndex: 2
+            CameraPreviewVisible: true
+            RenderMode: Lighting
+            ActiveStream: 
+            TransformationGizmoSize: 1.0
+            ComponentGizmoSize: 1.0
+            FixedSizeGizmos: false
+            HiddenGizmos:
+                - Model
+                - Physics
+                - Physics Constraint
+                - Transform
+            VisibleNavigationGroups: []
+            LightProbeWireframe: false
+            LightProbeBounces: 1
+            SceneLoaded: false
+        60033e8c-e2b7-4662-8d26-86f00150f7b3:
+            CamPosition: {X: -26.67081, Y: 77.78334, Z: -55.330242}
+            CamPitchYaw: {X: -0.4092335, Y: -209.8959}
+            CamProjection: Perspective
+            CamVerticalFieldOfView: 45.0
+            CamOrthographicSize: 10.0
+            CamNearClipPlane: 0.1
+            CamFarClipPlane: 1000.0
+            CamAspectRatio: 1.7777778
+            CamMoveSpeed: 100.0
+            TranslationSnapActive: false
+            TranslationSnapValue: 1.0
+            RotationSnapActive: false
+            RotationSnapValue: 22.5
+            ScaleSnapActive: false
+            ScaleSnapValue: 1.1
+            SceneUnit: 1.0
+            SelectionMaskVisible: false
+            GridVisible: true
+            GridColor: {R: 0.7058824, G: 0.7058824, B: 0.7058824}
+            GridOpacity: 0.35
+            GridAxisIndex: 2
+            CameraPreviewVisible: true
+            RenderMode: Lighting
+            ActiveStream: 
+            TransformationGizmoSize: 1.0
+            ComponentGizmoSize: 1.0
+            FixedSizeGizmos: false
+            HiddenGizmos:
+                - Transform
+            VisibleNavigationGroups: []
+            LightProbeWireframe: false
+            LightProbeBounces: 1
+            SceneLoaded: false
+        759bbc12-b399-4b64-a7f9-383612064973:
+            CamPosition: {X: 0.0, Y: 0.0, Z: 500.0}
+            CamPitchYaw: {X: 0.0, Y: 0.0}
+            CamProjection: Orthographic
+            CamVerticalFieldOfView: 45.0
+            CamOrthographicSize: 10.0
+            CamNearClipPlane: 0.1
+            CamFarClipPlane: 1000.0
+            CamAspectRatio: 1.7777778
+            CamMoveSpeed: 3.0
+            TranslationSnapActive: false
+            TranslationSnapValue: 1.0
+            RotationSnapActive: false
+            RotationSnapValue: 22.5
+            ScaleSnapActive: false
+            ScaleSnapValue: 1.1
+            SceneUnit: 1.0
+            SelectionMaskVisible: true
+            GridVisible: true
+            GridColor: {R: 0.7058824, G: 0.7058824, B: 0.7058824}
+            GridOpacity: 0.35
+            GridAxisIndex: 2
+            CameraPreviewVisible: true
+            RenderMode: SingleStream
+            ActiveStream: 
+            TransformationGizmoSize: 1.0
+            ComponentGizmoSize: 1.0
+            FixedSizeGizmos: false
+            HiddenGizmos:
+                - Transform
+                - Physics
+                - Physics Constraint
+                - Model
+            VisibleNavigationGroups: []
+            LightProbeWireframe: false
+            LightProbeBounces: 1
+            SceneLoaded: false
+        871a17cd-c2f2-47bb-ab06-24564c47ee21:
+            CamPosition: {X: 0.0, Y: 0.0, Z: 500.0}
+            CamPitchYaw: {X: 0.0, Y: 0.0}
+            CamProjection: Orthographic
+            CamVerticalFieldOfView: 45.0
+            CamOrthographicSize: 10.0
+            CamNearClipPlane: 0.1
+            CamFarClipPlane: 1000.0
+            CamAspectRatio: 1.7777778
+            CamMoveSpeed: 3.0
+            TranslationSnapActive: false
+            TranslationSnapValue: 1.0
+            RotationSnapActive: false
+            RotationSnapValue: 22.5
+            ScaleSnapActive: false
+            ScaleSnapValue: 1.1
+            SceneUnit: 1.0
+            SelectionMaskVisible: true
+            GridVisible: true
+            GridColor: {R: 0.7058824, G: 0.7058824, B: 0.7058824}
+            GridOpacity: 0.35
+            GridAxisIndex: 2
+            CameraPreviewVisible: true
+            RenderMode: SingleStream
+            ActiveStream: 
+            TransformationGizmoSize: 1.0
+            ComponentGizmoSize: 1.0
+            FixedSizeGizmos: false
+            HiddenGizmos:
+                - Transform
+                - Physics
+                - Physics Constraint
+                - Model
+            VisibleNavigationGroups: []
+            LightProbeWireframe: false
+            LightProbeBounces: 1
+            SceneLoaded: false

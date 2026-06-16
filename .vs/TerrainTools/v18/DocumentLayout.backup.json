@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\win10\\Documents\\Stride Projects\\TerrainTools\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2A0FC3A0-E66D-474A-A03E-C21E9E0BD56E}|TerrainTools\\TerrainTools.csproj|c:\\users\\win10\\documents\\stride projects\\terraintools\\terraintools\\tools\\maskedelevatebrush.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A0FC3A0-E66D-474A-A03E-C21E9E0BD56E}|TerrainTools\\TerrainTools.csproj|solutionrelative:terraintools\\tools\\maskedelevatebrush.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A0FC3A0-E66D-474A-A03E-C21E9E0BD56E}|TerrainTools\\TerrainTools.csproj|c:\\users\\win10\\documents\\stride projects\\terraintools\\terraintools\\terraingrid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A0FC3A0-E66D-474A-A03E-C21E9E0BD56E}|TerrainTools\\TerrainTools.csproj|solutionrelative:terraintools\\terraingrid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A0FC3A0-E66D-474A-A03E-C21E9E0BD56E}|TerrainTools\\TerrainTools.csproj|c:\\users\\win10\\documents\\stride projects\\terraintools\\terraintools\\terraineditortool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A0FC3A0-E66D-474A-A03E-C21E9E0BD56E}|TerrainTools\\TerrainTools.csproj|solutionrelative:terraintools\\terraineditortool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A0FC3A0-E66D-474A-A03E-C21E9E0BD56E}|TerrainTools\\TerrainTools.csproj|c:\\users\\win10\\documents\\stride projects\\terraintools\\terraintools\\drawing\\terrainstandardvertexdraw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A0FC3A0-E66D-474A-A03E-C21E9E0BD56E}|TerrainTools\\TerrainTools.csproj|solutionrelative:terraintools\\drawing\\terrainstandardvertexdraw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A0FC3A0-E66D-474A-A03E-C21E9E0BD56E}|TerrainTools\\TerrainTools.csproj|c:\\users\\win10\\documents\\stride projects\\terraintools\\terraintools\\terraintools.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2A0FC3A0-E66D-474A-A03E-C21E9E0BD56E}|TerrainTools\\TerrainTools.csproj|solutionrelative:terraintools\\terraintools.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A0FC3A0-E66D-474A-A03E-C21E9E0BD56E}|TerrainTools\\TerrainTools.csproj|c:\\users\\win10\\documents\\stride projects\\terraintools\\terraintools\\tools\\ui\\terrainuicomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A0FC3A0-E66D-474A-A03E-C21E9E0BD56E}|TerrainTools\\TerrainTools.csproj|solutionrelative:terraintools\\tools\\ui\\terrainuicomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MaskedElevateBrush.cs",
+              "DocumentMoniker": "C:\\Users\\win10\\Documents\\Stride Projects\\TerrainTools\\TerrainTools\\Tools\\MaskedElevateBrush.cs",
+              "RelativeDocumentMoniker": "TerrainTools\\Tools\\MaskedElevateBrush.cs",
+              "ToolTip": "C:\\Users\\win10\\Documents\\Stride Projects\\TerrainTools\\TerrainTools\\Tools\\MaskedElevateBrush.cs",
+              "RelativeToolTip": "TerrainTools\\Tools\\MaskedElevateBrush.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T13:34:57.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TerrainGrid.cs",
+              "DocumentMoniker": "C:\\Users\\win10\\Documents\\Stride Projects\\TerrainTools\\TerrainTools\\TerrainGrid.cs",
+              "RelativeDocumentMoniker": "TerrainTools\\TerrainGrid.cs",
+              "ToolTip": "C:\\Users\\win10\\Documents\\Stride Projects\\TerrainTools\\TerrainTools\\TerrainGrid.cs",
+              "RelativeToolTip": "TerrainTools\\TerrainGrid.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T11:48:10.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TerrainUiComponent.cs",
+              "DocumentMoniker": "C:\\Users\\win10\\Documents\\Stride Projects\\TerrainTools\\TerrainTools\\Tools\\Ui\\TerrainUiComponent.cs",
+              "RelativeDocumentMoniker": "TerrainTools\\Tools\\Ui\\TerrainUiComponent.cs",
+              "ToolTip": "C:\\Users\\win10\\Documents\\Stride Projects\\TerrainTools\\TerrainTools\\Tools\\Ui\\TerrainUiComponent.cs",
+              "RelativeToolTip": "TerrainTools\\Tools\\Ui\\TerrainUiComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T11:29:39.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TerrainEditorTool.cs",
+              "DocumentMoniker": "C:\\Users\\win10\\Documents\\Stride Projects\\TerrainTools\\TerrainTools\\TerrainEditorTool.cs",
+              "RelativeDocumentMoniker": "TerrainTools\\TerrainEditorTool.cs",
+              "ToolTip": "C:\\Users\\win10\\Documents\\Stride Projects\\TerrainTools\\TerrainTools\\TerrainEditorTool.cs",
+              "RelativeToolTip": "TerrainTools\\TerrainEditorTool.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAcwEUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T11:27:44.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TerrainStandardVertexDraw.cs",
+              "DocumentMoniker": "C:\\Users\\win10\\Documents\\Stride Projects\\TerrainTools\\TerrainTools\\Drawing\\TerrainStandardVertexDraw.cs",
+              "RelativeDocumentMoniker": "TerrainTools\\Drawing\\TerrainStandardVertexDraw.cs",
+              "ToolTip": "C:\\Users\\win10\\Documents\\Stride Projects\\TerrainTools\\TerrainTools\\Drawing\\TerrainStandardVertexDraw.cs",
+              "RelativeToolTip": "TerrainTools\\Drawing\\TerrainStandardVertexDraw.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAA9wAEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T11:26:54.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TerrainTools.csproj",
+              "DocumentMoniker": "C:\\Users\\win10\\Documents\\Stride Projects\\TerrainTools\\TerrainTools\\TerrainTools.csproj",
+              "RelativeDocumentMoniker": "TerrainTools\\TerrainTools.csproj",
+              "ToolTip": "C:\\Users\\win10\\Documents\\Stride Projects\\TerrainTools\\TerrainTools\\TerrainTools.csproj",
+              "RelativeToolTip": "TerrainTools\\TerrainTools.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-16T11:21:56.329Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

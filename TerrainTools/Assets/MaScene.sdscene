@@ -1,0 +1,143 @@
+!SceneAsset
+Id: 60033e8c-e2b7-4662-8d26-86f00150f7b3
+SerializedVersion: {Stride: 3.1.0.1}
+Tags: []
+ChildrenIds: []
+Offset: {X: 0.0, Y: 0.0, Z: 0.0}
+Hierarchy:
+    RootParts:
+        - ref!! 90651f32-f178-4f7f-bf68-96c2da02b041
+        - ref!! 935e8fc8-afb4-44c0-b878-6d7f6a02f582
+        - ref!! dd2dd0fc-37db-4eb9-921f-67f21883ba00
+        - ref!! 727de77a-123a-403c-b1d2-c90541479afa
+    Parts:
+        -   Entity:
+                Id: 727de77a-123a-403c-b1d2-c90541479afa
+                Name: Terrain
+                Components:
+                    58f8c514be50ab1125334dddf67abae4: !TransformComponent
+                        Id: f3cf3829-72a5-434a-a0c1-b8b427db9dcd
+                        Position: {X: 0.0, Y: 0.5, Z: 0.0}
+                        Rotation: {X: 0.0, Y: 0.0, Z: 0.0, W: 1.0}
+                        Scale: {X: 1.0, Y: 1.0, Z: 1.0}
+                        Children: {}
+                    4d9bbeef622cf6ae7ca62e7ea0c65fa7: !Terrain.TerrainGrid,TerrainTools
+                        Id: c53d12a0-a71b-42b8-95e3-f983523816c4
+                        ModifiedVertices: {}
+                        VertexColor: {}
+                        Size: 125
+                        CellSize: 1
+                        Material: 5a564d47-35e3-4dae-a16e-11dfb311784b:Groerial
+                        TerrainVertexDraw: !Terrain1.Drawing.TerrainStandardVertexDraw,TerrainTools
+                            Grid: null
+                            VertexCpuBuffer: null
+                        VertexColorMaterialMapping: {}
+                        VertexHeightsE: {}
+                        Randomize: false
+                        Flatten: false
+                    e330ca15fd584e72c3c602756ccd42aa: !Terrain.Tools.FlattenBrush,TerrainTools
+                        Id: 64fff747-5123-4f88-a0d0-905ecb7c7b44
+                        UIName: FlattenBrush
+                        Active: false
+                        Strength: 125
+                        Area: !Terrain.Tools.Areas.Circle,TerrainTools
+                            Radius: 3
+                            OuterBuffer: 0.5
+                    53cb930a1590f002d05970262d65be5d: !Terrain.Tools.MaskedElevateBrush,TerrainTools
+                        Id: 55ca4588-8a4a-417c-918f-0b8dbb7b0633
+                        UIName: MaskedElevateBrush
+                        Active: false
+                        Strength: 500
+                        Area: !Terrain.Tools.Areas.Circle,TerrainTools
+                            Radius: 50
+                            OuterBuffer: 0.5
+                    56fae40a5d5f65da6dea8c9e42cb3dca: !Terrain.Tools.SmoothBrush,TerrainTools
+                        Id: fe358e18-5bd2-4f46-a1b4-92639352253c
+                        UIName: SmoothBrush
+                        Active: false
+                        Strength: 100
+                        Area: !Terrain.Tools.Areas.Circle,TerrainTools
+                            Radius: 3
+                            OuterBuffer: 0.5
+                        SmoothingFactor: 2.0
+                    9af30b2cc4f0934a3ce9540706f3ba72: !UIComponent
+                        Id: 54b82d62-611a-4305-a6e1-ddb7d939ab85
+                        Enabled: false
+                        Page: 871a17cd-c2f2-47bb-ab06-24564c47ee21:RAJ
+                        Resolution: {X: 100.0, Y: 1000.0, Z: 1.0}
+                        Size: {X: 1.0, Y: 1.0, Z: 1.0}
+                        ResolutionStretch: FixedHeightAdaptableWidth
+                    8dd3937487332323a1c75dc415411d0b: !Terrain.Tools.Ui.TerrainUiComponent,TerrainTools
+                        Id: f635496d-eb4a-4db0-9d63-06429c243e35
+                        Font: null
+                    cf890ef3374b97e60c2b870a3aa4d100: !Terrain.Tools.ElevateBrush,TerrainTools
+                        Id: 64b324a8-2ac5-4299-ae34-0f651a6a1042
+                        UIName: ElevateBrush
+                        Active: false
+                        Strength: 5000
+                        Area: !Terrain.Tools.Areas.Square,TerrainTools
+                            SideLength: 3
+                    5ae640f9c2128851d7bed92141082425: !Terrain1.Tools.ColorBrush,TerrainTools
+                        Id: c9515ca0-979c-41d2-a91a-f58597282631
+                        UIName: ColorBrush
+                        Active: false
+                        Strength: 1000
+                        Area: !Terrain.Tools.Areas.Square,TerrainTools
+                            SideLength: 300
+        -   Entity:
+                Id: 90651f32-f178-4f7f-bf68-96c2da02b041
+                Name: Camera
+                Components:
+                    806fdc00bc18987ba0645e249e7a3098: !TransformComponent
+                        Id: 360aaf0f-bfe7-409c-a22c-e6cf4762ad80
+                        Position: {X: 2.6, Y: 0.6, Z: -1.0}
+                        Rotation: {X: 0.0, Y: 0.82903755, Z: 0.0, W: 0.5591929}
+                        Scale: {X: 1.0, Y: 1.0, Z: 1.0}
+                        Children: {}
+                    953feaa836ac80dd11cc986b27a3aa42: !CameraComponent
+                        Id: 4b9ea671-0490-4abb-a6ce-b393235ea56c
+                        Name: null
+                        Projection: Perspective
+                        Slot: 3a185921-c1be-441d-b745-ff8606f5b767
+        -   Entity:
+                Id: 935e8fc8-afb4-44c0-b878-6d7f6a02f582
+                Name: Directional light
+                Components:
+                    8cdc757c0326283ee5eeb2469623864a: !TransformComponent
+                        Id: 5d81d990-efd1-48b8-afdf-c2678bdb89b6
+                        Position: {X: 0.0, Y: 2.0, Z: 0.0}
+                        Rotation: {X: -5.3385076E-08, Y: 0.70710677, Z: 0.70710677, W: 5.3385076E-08}
+                        Scale: {X: 1.0, Y: 1.0, Z: 1.0}
+                        Children: {}
+                    4f262b584ab3f931908bc64aab9aa9cc: !LightComponent
+                        Id: 95aaadda-0ef0-4ffe-95ca-bb07ae293fb4
+                        Type: !LightDirectional
+                            Color: !ColorRgbProvider
+                                Value: {R: 1.0, G: 1.0, B: 1.0}
+                            Shadow:
+                                Enabled: true
+                                Filter: !LightShadowMapFilterTypePcf
+                                    FilterSize: Filter5x5
+                                Size: Large
+                                DepthRange: {}
+                                PartitionMode: !LightDirectionalShadowMap.PartitionLogarithmic {}
+                                ComputeTransmittance: false
+                                BiasParameters: {}
+                        Intensity: 10.0
+        -   Entity:
+                Id: dd2dd0fc-37db-4eb9-921f-67f21883ba00
+                Name: Skybox
+                Components:
+                    c67eeb9383d285a8ce15a664c095ff26: !TransformComponent
+                        Id: 3f2788b7-17d4-4922-b95d-f925c627188b
+                        Position: {X: 0.0, Y: 2.0, Z: -2.0}
+                        Rotation: {X: 0.0, Y: 0.0, Z: 0.0, W: 1.0}
+                        Scale: {X: 1.0, Y: 1.0, Z: 1.0}
+                        Children: {}
+                    c66f01409e3c1fecb5a34aad33323496: !BackgroundComponent
+                        Id: 7be38931-2e6c-403e-b616-491b2617dc5b
+                        Texture: 2eca97c5-cbad-45ec-b503-ed8972800129:Skybox texture
+                    04cf5bc88c530898bcaa6910daa515b9: !LightComponent
+                        Id: c8fca334-c4d8-453c-9fb2-460a604d2a94
+                        Type: !LightSkybox
+                            Skybox: 253ce6a3-e578-4154-aa1f-64627ac94354:Skybox

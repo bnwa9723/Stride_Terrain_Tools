@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 18
+VisualStudioVersion = 18.7.11903.348 stable
+MinimumVisualStudioVersion = 16.0.0.0
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TerrainTools.Windows", "TerrainTools.Windows\TerrainTools.Windows.csproj", "{9D25AF00-C5B3-4F87-B1D5-2A41901423BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TerrainTools", "TerrainTools\TerrainTools.csproj", "{2A0FC3A0-E66D-474A-A03E-C21E9E0BD56E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9D25AF00-C5B3-4F87-B1D5-2A41901423BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D25AF00-C5B3-4F87-B1D5-2A41901423BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D25AF00-C5B3-4F87-B1D5-2A41901423BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D25AF00-C5B3-4F87-B1D5-2A41901423BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A0FC3A0-E66D-474A-A03E-C21E9E0BD56E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A0FC3A0-E66D-474A-A03E-C21E9E0BD56E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A0FC3A0-E66D-474A-A03E-C21E9E0BD56E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A0FC3A0-E66D-474A-A03E-C21E9E0BD56E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
