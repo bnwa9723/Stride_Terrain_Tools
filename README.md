@@ -9,4 +9,4 @@ _2,_ the default material is limited to a single color, and even when using othe
 _3,_ The terrain plugin does not have a terrain-saving feature; closing the scene will clear any terrain changes.(My next step is to create a terrain data file to store changes in the terrain.)
 
 **These are the three main issues currently present.**
-Original Author<https://github.com/bnwa9723/Stride_Terrain_Tools>
+Original Author<https://github.com/NexStandard/Terrain1>
